@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Walkthrough is not really helpful, not hard to figure out since I have background in mobile developement. Will be hard for those with no background though.
 
 ## License
 
